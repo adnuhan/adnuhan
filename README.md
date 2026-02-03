@@ -1,1 +1,1 @@
-[![Nahunda's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnuhan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Nahunda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnuhan&show_icons=true&count_private=true&hide_title=false&hide_border=false&theme=dark&bg_color=000000&title_color=FFFFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF)](https://github.com/anuraghazra/github-readme-stats)
