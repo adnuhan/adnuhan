@@ -42,7 +42,7 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Instant-Time-Converter]([https://github.com/adnuhan/Instant-Time-Converter](https://adnuhan.github.io/Instant-Time-Converter/)) | Real-time time format converter | JavaScript, HTML, CSS |
+| [Instant-Time-Converter](https://adnuhan.github.io/Instant-Time-Converter/) | Real-time time format converter | JavaScript, HTML, CSS |
 | [My-Portfolio](https://github.com/adnuhan/My-Portfolio) | Web development portfolio | HTML, CSS, JS |
 | [LeetCode](https://github.com/adnuhan/LeetCode) | Problem-solving journey | Python |
 
