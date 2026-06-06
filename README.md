@@ -1,1 +1,1 @@
-[![Nahunda's GitHub stats](https://github-stats-alpha.vercel.app/api?username=adnuhan)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adnuhan&theme=dark&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideNums=F7C59F&sideLabels=F7C59F&dates=F7C59F&background=1A1A1A&stroke=FF6B35&border=FF6B35)](https://git.io/streak-stats)
