@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adnuhan&theme=dark&ring=FF007F&fire=FF007F&currStreakLabel=FF007F&sideNums=FF66B2&sideLabels=FF66B2&dates=FF66B2&background=1A1A1A&stroke=FF007F&border=FF007F)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adnuhan&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFF8DC&sideLabels=FFF8DC&dates=FFF8DC&background=1A1A1A&stroke=FFD700&border=FFD700)](https://git.io/streak-stats)
