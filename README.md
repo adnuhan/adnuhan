@@ -1,13 +1,10 @@
-
-
-
-# 👋 Hi there, I'm Nahunda Bekele (adnuhan)
+# 👋 Hi there, I'm Nahunda Bekele
 
 ### 🐍 Python Full-Stack Developer | Data Analyst | Web Scraper
 
-[![GitHub followers](https://img.shields.io/github/followers/adnuhan?label=Follow&style=social)](https://github.com/adnuhan)
+[![GitHub followers](https://img.shields.io/github/followers/adnuhan?label=Follow&style=social)]([https://github.com/adnuhan](https://www.linkedin.com/in/adnuhan/))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](your-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)]([your-portfolio-url](https://my-portfolio-delta-tan-21.vercel.app/))
 
 ---
 
@@ -45,7 +42,7 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Instant-Time-Converter](https://github.com/adnuhan/Instant-Time-Converter) | Real-time time format converter | JavaScript, HTML, CSS |
+| [Instant-Time-Converter]([https://github.com/adnuhan/Instant-Time-Converter](https://adnuhan.github.io/Instant-Time-Converter/)) | Real-time time format converter | JavaScript, HTML, CSS |
 | [My-Portfolio](https://github.com/adnuhan/My-Portfolio) | Web development portfolio | HTML, CSS, JS |
 | [LeetCode](https://github.com/adnuhan/LeetCode) | Problem-solving journey | Python |
 
@@ -54,5 +51,5 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adnuhan/)
-- 📧 [Email](nahundab@gmail.com)
+- 📧 [Email][nahundab@gmail.com](mailto:your-email@example.com)
 - 🌐 [Portfolio](https://my-portfolio-delta-tan-21.vercel.app/)
