@@ -1,1 +1,1 @@
-![Owl Streak](https://coolreadme.xyz/api/owl-card?user=adnuhan)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adnuhan&theme=dark&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&background=0D0D0D&stroke=00FF41&border=00FF41)](https://git.io/streak-stats)
