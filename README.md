@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adnuhan&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFF8DC&sideLabels=FFF8DC&dates=FFF8DC&background=1A1A1A&stroke=FFD700&border=FFD700)](https://git.io/streak-stats)
+
 
 
 # 👋 Hi there, I'm Nahunda Bekele (adnuhan)
@@ -37,14 +37,7 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adnuhan&show_icons=true&theme=dark&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnuhan&layout=compact&theme=dark&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&hide_border=true" />
-</div>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adnuhan&theme=dark&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=000000&stroke=00FFFF&border=00FFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adnuhan&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFF8DC&sideLabels=FFF8DC&dates=FFF8DC&background=1A1A1A&stroke=FFD700&border=FFD700)](https://git.io/streak-stats)
 
 ---
 
@@ -58,18 +51,8 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 
 ---
 
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnuhan&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)
-
----
-
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 [Email](your-email)
-- 🌐 [Portfolio](your-portfolio-url)
-
----
-
-⭐️ **Feel free to explore my repositories and connect with me!**
+- 💼 [LinkedIn](https://www.linkedin.com/in/adnuhan/)
+- 📧 [Email](nahundab@gmail.com)
+- 🌐 [Portfolio](https://my-portfolio-delta-tan-21.vercel.app/)
