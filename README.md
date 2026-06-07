@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Nahunda Bekele
 
-![Profile Views](https://komarev.com/ghpvc/?username=adnuhan&color=FFD700&style=flat-square)
-
 ### 🐍 Python Full-Stack Developer | Data Analyst | Web Scraper
 
 ---
@@ -40,10 +38,9 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Instant-Time-Converter](https://adnuhan.github.io/Instant-Time-Converter/) | Real-time time format converter | JavaScript, HTML, CSS |
+| [Instant Time Converter](https://adnuhan.github.io/Instant-Time-Converter/) | Real-time time format converter | JavaScript, HTML, CSS |
 | [ABS Workout Tracker](https://adnuhan.github.io/ABS-Workout-Tracker/) | Track daily ab workouts, monitor progress, and stay consistent with fitness goals | HTML, CSS, JavaScript |
-| [My-Portfolio]([https://github.com/adnuhan/My-Portfolio](https://my-portfolio-delta-tan-21.vercel.app/)) | Web development portfolio | HTML, CSS, JS |
-| [My-Portfolio](https://my-portfolio-delta-tan-21.vercel.app/) | Web development portfolio | HTML, CSS, JS |
+| [My Portfolio](https://my-portfolio-delta-tan-21.vercel.app/) | Web development portfolio | HTML, CSS, JS |
 
 ---
 
@@ -53,7 +50,9 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 - 📧 [nahundab@gmail.com](mailto:nahundab@gmail.com)
 - 🌐 [Portfolio](https://my-portfolio-delta-tan-21.vercel.app/)
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnuhan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahundab@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-delta-tan-21.vercel.app/)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/adnuhan?label=Follow&style=social)]([https://github.com/adnuhan](https://www.linkedin.com/in/adnuhan/))
