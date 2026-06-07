@@ -46,15 +46,6 @@ I'm a passionate developer with 1+ year of experience turning complex problems i
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/adnuhan/)
-- 📧 [nahundab@gmail.com](mailto:nahundab@gmail.com)
-- 🌐 [Portfolio](https://my-portfolio-delta-tan-21.vercel.app/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnuhan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahundab@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-delta-tan-21.vercel.app/)
-
-
-[![GitHub followers](https://img.shields.io/github/followers/adnuhan?label=Follow&style=social)]([https://github.com/adnuhan](https://www.linkedin.com/in/adnuhan/))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)]([your-portfolio-url](https://my-portfolio-delta-tan-21.vercel.app/))
